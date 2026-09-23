@@ -1,0 +1,20 @@
+1. Explain the Internet of Things to a diploma engineering student in simple language.
+2. Write a 100-word motivational note for a student learning Python from scratch.
+3. Describe three practical uses of AI in electronics engineering.
+4. Write a short futuristic scene about an engineer debugging a robot at midnight.
+5. Explain overfitting in machine learning using a classroom analogy.
+6. Create five concise interview questions for an entry-level AI engineer.
+7. Summarize why version control is important in software projects.
+8. Write a short professional LinkedIn post about completing a Generative AI internship task.
+9. Explain how a transformer model differs from a traditional recurrent neural network.
+10. Give a step-by-step beginner plan to learn machine learning in three months.
+11. Write a 120-word product description for an affordable smart home sensor.
+12. Explain APIs using a restaurant analogy and then give a technical definition.
+13. Generate a short dialogue between a student and an AI assistant about debugging Python.
+14. List practical ways to reduce hallucinations in AI-generated answers.
+15. Write a concise explanation of edge computing and why latency matters.
+16. Create a short story in which an IoT sensor prevents a factory accident.
+17. Explain BLE versus Wi-Fi for a wearable device in simple terms.
+18. Write a polite email asking a mentor for feedback on a project.
+19. Describe a simple architecture for a chatbot that uses a hosted LLM API.
+20. Write a 150-word conclusion for a report on responsible generative AI.

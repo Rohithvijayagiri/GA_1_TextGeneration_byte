@@ -1,0 +1,3 @@
+Project artifacts are provided for educational internship submission purposes.
+Model and platform terms are governed by the respective provider's current terms.
+OpenAI: https://openai.com/policies/

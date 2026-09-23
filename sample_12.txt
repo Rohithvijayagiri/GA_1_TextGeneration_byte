@@ -1,0 +1,6 @@
+Student: My Python program runs, but the output is empty.
+AI: What does the input data look like just before the processing step?
+Student: It is a list of dictionaries, and I filter it by status.
+AI: Print the list length before and after the filter. Also check whether the status values exactly match your condition.
+Student: I found it. The data uses 'completed' but my code checks 'complete'.
+AI: Nice catch. Fix the comparison and add a small test for that status so the same mismatch is easier to catch later.

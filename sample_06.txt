@@ -1,0 +1,5 @@
+1. How would you explain a machine-learning project you built from start to finish?
+2. What is the difference between supervised and unsupervised learning?
+3. How do you detect and handle data leakage?
+4. What metrics would you choose for an imbalanced classification problem?
+5. How would you debug a model whose validation performance suddenly drops?
